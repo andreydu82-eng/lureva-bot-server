@@ -18,7 +18,7 @@ const PLANS = {
   pro_7d: {
     title: 'LUREVA FISHING PRO — 7 дней',
     description: 'Полный доступ к PRO-функциям на 7 дней',
-    amount: 1,
+    amount: 99,
     days: 7,
     label: 'PRO активен 7 дней'
   },
